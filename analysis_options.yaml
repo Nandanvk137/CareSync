@@ -1,0 +1,17 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Code style
+    prefer_const_constructors: true
+    prefer_const_declarations: true
+    use_key_in_widget_constructors: true
+    avoid_print: true
+    
+    # Documentation
+    public_member_api_docs: false  # Relaxed for portfolio project
+
+analyzer:
+  errors:
+    # Downgrade to warning for common patterns during development
+    todo: ignore
