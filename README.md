@@ -97,7 +97,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/caresync.git
+   git clone https://github.com/Nandanvk137/caresync.git
    cd caresync
    ```
 
@@ -222,10 +222,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+**Nandan Kuchabal**
+- GitHub: [@yourusername](https://github.com/Nandanvk137)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/nandan-kuchabal-404964361)
 
 ---
 
