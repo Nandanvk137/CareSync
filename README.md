@@ -223,8 +223,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👤 Author
 
 **Nandan Kuchabal**
-- GitHub: [@yourusername](https://github.com/Nandanvk137)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/nandan-kuchabal-404964361)
+- GitHub: [@Nandanvk137](https://github.com/Nandanvk137)
+- LinkedIn: [nandan-kuchabal](https://linkedin.com/in/nandan-kuchabal-404964361)
 
 ---
 
